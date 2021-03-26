@@ -1,10 +1,12 @@
 
 import './App.css';
+//components
+import GroceryStore from './Components';
 
 function App() {
   return (
     <div className="App">
-      workkk
+      <GroceryStore />
     </div>
   );
 }
